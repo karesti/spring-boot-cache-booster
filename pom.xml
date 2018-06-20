@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>spring-boot-cache-parent</artifactId>
-    <version>1.5.13-2-redhat-SNAPSHOT</version>
+    <version>1.5.14-1-redhat-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <groupId>io.openshift.booster</groupId>
